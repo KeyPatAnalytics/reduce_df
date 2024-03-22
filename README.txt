@@ -1,4 +1,4 @@
-This library reduces the size of any data frame by allocating only the needed memory to its every numerical column.
+I wrote this library to reduce the size of any data frame by allocating only the needed memory to its every numerical column.
 
 It contains two functions: new_type and reduce
 
